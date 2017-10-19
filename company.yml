@@ -2,4 +2,9 @@
 
 info:
   description: Training configuration repo
+---
+
+spring:
+  profiles: cloud
+
 message: Patrick
