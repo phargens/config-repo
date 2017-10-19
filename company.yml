@@ -7,4 +7,4 @@ info:
 spring:
   profiles: cloud
 
-message: Patrick
+message: Patrick H.
