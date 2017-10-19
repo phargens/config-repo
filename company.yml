@@ -1,10 +1,10 @@
 ---
 
 info:
-  description: Training configuration repo
+  description: Company App
 ---
 
 spring:
   profiles: cloud
 
-message: Patrick H.
+message: This is the company.

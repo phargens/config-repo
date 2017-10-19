@@ -1,0 +1,10 @@
+---
+
+info:
+  description: Roster App
+---
+
+spring:
+  profiles: cloud
+
+message: This is the roster.
